@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: 3636ffe2a9c5b694c877847cc7be2f0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2153723354548041682
+    second: Bezymyannyi_774_-1_vosstanovlen 1_0
+  - first:
+      213: -6990681733335488324
+    second: Bezymyannyi_774_-1_vosstanovlen 1_2
+  - first:
+      213: -3721051062271848873
+    second: Bezymyannyi_774_-1_vosstanovlen 1_4
+  - first:
+      213: -8072829805190794975
+    second: Bezymyannyi_774_-1_vosstanovlen 1_7
+  - first:
+      213: 3539818876557490115
+    second: Bezymyannyi_774_-1_vosstanovlen 1_8
+  - first:
+      213: -5296881055055838845
+    second: Bezymyannyi_774_-1_vosstanovlen 1_9
+  - first:
+      213: -2510230903304822568
+    second: Bezymyannyi_774_-1_vosstanovlen 1_11
+  - first:
+      213: 206551678540799799
+    second: Bezymyannyi_774_-1_vosstanovlen 1_12
+  - first:
+      213: 2171891297050358252
+    second: Bezymyannyi_774_-1_vosstanovlen 1_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bezymyannyi_774_-1_vosstanovlen 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2609
+        width: 4106
+        height: 2338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19a084dbb02db54a8712c6d08f13bd0
+      internalID: -2153723354548041682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bezymyannyi_774_-1_vosstanovlen 1_2
+      rect:
+        serializedVersion: 2
+        x: 4670
+        y: 2609
+        width: 4114
+        height: 2382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78c6b8db46560a43af4eeede897eb82
+      internalID: -6990681733335488324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bezymyannyi_774_-1_vosstanovlen 1_4
+      rect:
+        serializedVersion: 2
+        x: 9122
+        y: 2609
+        width: 4112
+        height: 2340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c86e505af2552448137ea30c31ff5c
+      internalID: -3721051062271848873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bezymyannyi_774_-1_vosstanovlen 1_7
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 2577
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13b3bad8df963a4c966207967c2c570
+      internalID: -8072829805190794975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bezymyannyi_774_-1_vosstanovlen 1_8
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 2583
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e23b78bca997443a6b9f9d67059cd1
+      internalID: 3539818876557490115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bezymyannyi_774_-1_vosstanovlen 1_9
+      rect:
+        serializedVersion: 2
+        x: 5439
+        y: 2577
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a937910fe82ea4095781865e5ce558
+      internalID: -5296881055055838845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bezymyannyi_774_-1_vosstanovlen 1_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 49
+        width: 4120
+        height: 2346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625bc08f4bf803440816ab2cb7a5f907
+      internalID: -2510230903304822568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bezymyannyi_774_-1_vosstanovlen 1_12
+      rect:
+        serializedVersion: 2
+        x: 4659
+        y: 0
+        width: 4124
+        height: 2356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252aacfc74b1c0840820b98c26a5072a
+      internalID: 206551678540799799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bezymyannyi_774_-1_vosstanovlen 1_15
+      rect:
+        serializedVersion: 2
+        x: 9471
+        y: 1266
+        width: 1050
+        height: 1043
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41a323e2234d2d499715203a20172a6
+      internalID: 2171891297050358252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 2932, y: -1145.5}
+      - {x: 2933, y: -264.5}
+      - {x: 3823, y: -264.5}
+      - {x: 3816, y: -1145.5}
+    physicsShape: []
+    bones: []
+    spriteID: 29b0a2f9440a13b4ebf40458df70be48
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
